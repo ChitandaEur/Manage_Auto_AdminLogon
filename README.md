@@ -5,7 +5,7 @@
 - BAT版本使用批处理命令实现，VBS版本提供GUI交互
 
 ### 安装教程
-1. 点击 [Releases](https://gitee.com/soforeve/manage_-auto_-admin-logon/releases) 下载最新版
+1. 点击 [Releases](https://github.com/ChitandaEur/Manage_Auto_AdminLogon/releases/) 下载最新版
 2. 将Microsoft账户登陆切换为本地账户登录（若已经是本地账户登录，则可跳过该步骤）
 
         设置-账户-你的信息
