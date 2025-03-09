@@ -7,9 +7,9 @@
 ### 安装教程
 1. 点击 [Releases](https://github.com/ChitandaEur/Manage_Auto_AdminLogon/releases/) 下载最新版
 2. 将Microsoft账户登陆切换为本地账户登录（若已经是本地账户登录，则可跳过该步骤）
-
+![切换登录指引-1](a.png)
         设置-账户-你的信息
-
+![切换登录指引-1](c.png)
         改为本地账户登录，之后按照提示操作即可
 3. 运行脚本时选择操作：
    - `1` 开启自动登录：需输入本地用户名和密码
